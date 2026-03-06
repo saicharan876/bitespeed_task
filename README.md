@@ -11,9 +11,8 @@ A backend service that intelligently links customer contact information (email +
 
 ## Live Endpoint
 
-> **`https://bitespeed-identity.onrender.com/identify`**
+> **`https://bitespeed-task-tldr.onrender.com/identify`**
 
-*(Update this URL after deploying to Render)*
 
 ## How to Run Locally
 
